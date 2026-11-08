@@ -1,0 +1,6 @@
+im so tired to write a README...
+
+but basically it just switches the boring ahh windows emoji font to Apple's IOS once...
+it's applied systematically and also has a revert option if things go south (it wont :3)
+
+download both files from the release tab and keep them in the same folder
